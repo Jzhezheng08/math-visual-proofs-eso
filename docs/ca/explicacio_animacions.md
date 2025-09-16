@@ -1,6 +1,6 @@
 # Explicació de les animacions
 
-**🌐 Idioma / Language:** [Català](explicacio_animacions.ca.md) | [English](../en/installation_guide.md)
+**🌐 Idioma / Language:** [Català](explicacio_animacions.md) | [English](../en/installation_guide.md)
 
 Aquest document descriu breument el contingut i l'objectiu pedagògic de cadascuna de les animacions creades amb **ManimCE** per al Treball de Recerca  
 "Demostracions matemàtiques visuals de la ESO: un enfocament accessible amb eines digitals".
@@ -138,4 +138,4 @@ Fer explícit el raonament algebraic amb suport visual, mostrant que la fórmula
 
 ---
 
-**🌐 Idioma / Language:** [Català](explicacio_animacions.ca.md) | [English](../en/installation_guide.md)
+**🌐 Idioma / Language:** [Català](explicacio_animacions.md) | [English](../en/installation_guide.md)

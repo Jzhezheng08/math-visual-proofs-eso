@@ -2,7 +2,7 @@
 
 # Guia d'Execució - Projecte d'Animacions amb Manim
 
-**🌐 Idioma / Language:** [Català](guia_execucio.ca.md) | [English](../en/installation_guide.md)
+**🌐 Idioma / Language:** [Català](guia_execucio.md) | [English](../en/installation_guide.md)
 
 Aquesta guia us ajudarà a configurar l'entorn i executar les animacions d'aquest Treball de Recerca en el vostre ordinador local.
 
@@ -173,7 +173,7 @@ Si continues tenint problemes, pots:
 
 ---
 
-**🌐 Idioma / Language:** [Català](guia_execucio.ca.md) | [English](../en/installation_guide.md)
+**🌐 Idioma / Language:** [Català](guia_execucio.md) | [English](../en/installation_guide.md)
 
 ```
 

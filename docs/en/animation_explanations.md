@@ -138,4 +138,4 @@ Make explicit the algebraic reasoning with visual support, showing that the form
 
 ---
 
-**🌐 Language / Idioma:** [English](animation_explanations.en.md) | [Català](../ca/guia_execucio.md)
+**🌐 Language / Idioma:** [English](animation_explanations.md) | [Català](../ca/guia_execucio.md)

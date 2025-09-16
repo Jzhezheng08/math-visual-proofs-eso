@@ -2,7 +2,7 @@
 
 # Installation Guide - Manim Animations Project
 
-**🌐 Language / Idioma:** [English](installation_guide.en.md) | [Català](../ca/guia_execucio.md)
+**🌐 Language / Idioma:** [English](installation_guide.md) | [Català](../ca/guia_execucio.md)
 
 This guide will help you set up the environment and run the animations from this Research Project on your local computer.
 
@@ -173,7 +173,7 @@ If you continue to have problems, you can:
 
 ---
 
-**🌐 Language / Idioma:** [English](installation_guide.en.md) | [Català](../ca/guia_execucio.md)
+**🌐 Language / Idioma:** [English](installation_guide.md) | [Català](../ca/guia_execucio.md)
 
 ```
 
