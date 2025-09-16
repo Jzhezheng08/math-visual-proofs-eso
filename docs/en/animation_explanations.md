@@ -1,6 +1,6 @@
 # Explanation of Animations
 
-**🌐 Language / Idioma:** [English](animation_explanations.en.md) | [Català](../ca/guia_execucio.md)
+**🌐 Language / Idioma:** [English](animation_explanations.md) | [Català](../ca/guia_execucio.md)
 
 This document briefly describes the content and pedagogical objective of each animation created with **ManimCE** for the research project  
 "Visual Mathematical Proofs for Secondary Education: An Accessible Approach with Digital Tools".
