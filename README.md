@@ -71,7 +71,7 @@ L'objectiu és mostrar, mitjançant **animacions creades amb ManimCE**, com es p
    (L'arxiu `docs/guia_execucio.ca.md` conté instruccions més detallades.)
 
 ### 🌐 Repositori i web
-- Repositori GitHub: https://github.com/Jzhezheng08/TdR-demostracions-ESO
+- Repositori GitHub: https://github.com/Jzhezheng08/math-visual-proofs-eso
 - Web amb les animacions: [en procés]
 
 ---
