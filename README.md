@@ -22,7 +22,6 @@ This project demonstrates, through **animations created with ManimCE**, how to c
 
 ```
 ├── src/                          # Python source code (ManimCE scenes)
-├── media/                        # Generated media files
 ├── docs/                         # Documentation (EN & CA)
 └── requirements.txt              # Python dependencies
 ```
@@ -67,7 +66,6 @@ L'objectiu és mostrar, mitjançant **animacions creades amb ManimCE**, com es p
 
 ```
 ├── src/                          # Codi font Python (escenes de ManimCE)
-├── media/                        # Fitxers de mitjans generats
 ├── docs/                         # Documentació (EN i CA)
 └── requirements.txt              # Dependències de Python
 ```
@@ -119,4 +117,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 > **Note**: This project was developed as part of a high school research project (Treball de Recerca) in Catalonia, Spain.
-

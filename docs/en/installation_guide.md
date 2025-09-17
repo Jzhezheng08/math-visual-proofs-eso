@@ -157,5 +157,3 @@ If you continue to have problems, you can:
 ---
 
 **🌐 Language / Idioma:** [English](installation_guide.md) | [Català](../ca/guia_execucio.md)
-
-```
