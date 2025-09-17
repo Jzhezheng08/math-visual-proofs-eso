@@ -1,4 +1,4 @@
-# TdR-demostracions-ESO / Mathematical Visual Proofs for Secondary Education
+# Math Visual Proofs for ESO
 
 [🇬🇧 English](#english) | [🇪🇸 Català](#català)
 
