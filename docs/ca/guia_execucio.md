@@ -1,4 +1,4 @@
-### 📄 docs/guia_execucio.ca.md
+### 📄 docs/guia_execucio.md
 
 # Guia d'Execució - Projecte d'Animacions amb Manim
 
@@ -10,7 +10,7 @@ Aquesta guia us ajudarà a configurar l'entorn i executar les animacions d'aques
 
 Abans de començar, assegureu-vos de tenir instal·lats els següents programes:
 
-### 1. Python (3.8 o superior)
+### 1. Python (3.9 o superior)
 
 - **Com comprovar-ho?** Obre una terminal i escriu:
   ```bash
@@ -137,24 +137,7 @@ Els vídeos renderitzats es guardaran a la carpeta `media/videos/` dins del teu 
   - Assegura't que LaTeX està instal·lat. MiKTeX pot demanar instal·lar paquets addicionals la primera vegada; permet-ho.
 
 - **Error de versions de Python**:
-  - Assegura't que tens Python 3.8 o superior. Si tens múltiples versions, utilitza `python3` en lloc de `python`.
-
-## 📁 Estructura del Projecte
-
-```
-projecte_tr/
-├── 📄 README.md                 # Descripció general del projecte
-├── 📄 LICENSE                   # Llicència MIT
-├── 📄 requirements.txt          # Llista de dependències de Python
-├── 📁 src/                      # Codi font amb les animacions
-│   ├── 📄 main.py               # Possible arxiu principal
-│   ├── 📄 scenes.py             # Altres arxius amb escenes
-│   └── 📄 utils.py              # Funcions auxiliars
-├── 📁 docs/
-│   └── 📄 guia_execucio.md      # Aquesta guia
-├── 📁 output/                   # Vídeos renderitzats (no versionat)
-└── 📄 .gitignore                # Arxius ignorats per Git
-```
+  - Assegura't que tens Python 3.9 o superior. Si tens múltiples versions, utilitza `python3` en lloc de `python`.
 
 ## ℹ️ Informació Addicional
 
@@ -175,7 +158,4 @@ Si continues tenint problemes, pots:
 
 **🌐 Idioma / Language:** [Català](guia_execucio.md) | [English](../en/installation_guide.md)
 
-```
-
----
 ```

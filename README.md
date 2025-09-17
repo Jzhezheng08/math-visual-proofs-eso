@@ -14,7 +14,7 @@ This project demonstrates, through **animations created with ManimCE**, how to c
 ---
 
 > **📚 Educational Level Note**  
-> These animations focus on mathematical concepts taught in **ESO** (Educació Secundària Obligatòria), which corresponds to lower secondary education (typically ages 12–16) in the Spanish educational system. The content covers key concepts from algebra, geometry, and fundamental proofs appropriate for this level.
+> These animations focus on mathematical concepts taught in **ESO** (Educació Secundària Obligatòria), which corresponds to lower secondary education (typically ages 12-16) in the Spanish educational system. The content covers key concepts from algebra, geometry, and fundamental proofs appropriate for this level.
 
 ---
 
@@ -22,9 +22,7 @@ This project demonstrates, through **animations created with ManimCE**, how to c
 
 ```
 ├── src/                          # Python source code (ManimCE scenes)
-├── media/
-│   ├── captures/                 # Representative animation frames
-│   └── videos/                   # Rendered video files (optional)
+├── media/                        # Generated media files
 ├── docs/                         # Documentation (EN & CA)
 └── requirements.txt              # Python dependencies
 ```
@@ -34,7 +32,7 @@ This project demonstrates, through **animations created with ManimCE**, how to c
 1. **Install Python 3.9+**
 2. **Clone the repository**  
    ```bash
-   git clone https://github.com/Jzhezheng08/TdR-demostracions-ESO
+   git clone https://github.com/Jzhezheng08/math-visual-proofs-eso
    ```
 3. **Install dependencies**  
    ```bash
@@ -51,7 +49,7 @@ This project demonstrates, through **animations created with ManimCE**, how to c
 
 ### 🌐 Links
 
-- **GitHub Repository**: [https://github.com/Jzhezheng08/TdR-demostracions-ESO](https://github.com/Jzhezheng08/TdR-demostracions-ESO)  
+- **GitHub Repository**: [https://github.com/Jzhezheng08/math-visual-proofs-eso](https://github.com/Jzhezheng08/math-visual-proofs-eso)  
 - **Animation Website**: *In progress*
 
 ---
@@ -69,9 +67,7 @@ L'objectiu és mostrar, mitjançant **animacions creades amb ManimCE**, com es p
 
 ```
 ├── src/                          # Codi font Python (escenes de ManimCE)
-├── media/
-│   ├── captures/                 # Captures de fotogrames representatius
-│   └── videos/                   # Vídeos renderitzats (opcional)
+├── media/                        # Fitxers de mitjans generats
 ├── docs/                         # Documentació (EN i CA)
 └── requirements.txt              # Dependències de Python
 ```
@@ -81,7 +77,7 @@ L'objectiu és mostrar, mitjançant **animacions creades amb ManimCE**, com es p
 1. **Instal·la Python 3.9+**
 2. **Clona el repositori**  
    ```bash
-   git clone https://github.com/Jzhezheng08/TdR-demostracions-ESO
+   git clone https://github.com/Jzhezheng08/math-visual-proofs-eso
    ```
 3. **Instal·la les dependències**  
    ```bash
@@ -98,7 +94,7 @@ L'objectiu és mostrar, mitjançant **animacions creades amb ManimCE**, com es p
 
 ### 🌐 Enllaços
 
-- **Repositori GitHub**: [https://github.com/Jzhezheng08/TdR-demostracions-ESO](https://github.com/Jzhezheng08/TdR-demostracions-ESO)  
+- **Repositori GitHub**: [https://github.com/Jzhezheng08/math-visual-proofs-eso](https://github.com/Jzhezheng08/math-visual-proofs-eso)  
 - **Lloc web amb animacions**: *En procés*
 
 ---
@@ -123,3 +119,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 > **Note**: This project was developed as part of a high school research project (Treball de Recerca) in Catalonia, Spain.
+

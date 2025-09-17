@@ -1,4 +1,4 @@
-### 📄 docs/installation_guide.en.md
+### 📄 docs/installation_guide.md
 
 # Installation Guide - Manim Animations Project
 
@@ -10,7 +10,7 @@ This guide will help you set up the environment and run the animations from this
 
 Before you begin, make sure you have the following programs installed:
 
-### 1. Python (3.8 or higher)
+### 1. Python (3.9 or higher)
 
 - **How to check?** Open a terminal and type:
   ```bash
@@ -137,24 +137,7 @@ The rendered videos will be saved in the `media/videos/` folder within your proj
   - Make sure LaTeX is installed. MiKTeX may ask to install additional packages the first time; allow it.
 
 - **Python version error**:
-  - Make sure you have Python 3.8 or higher. If you have multiple versions, use `python3` instead of `python`.
-
-## 📁 Project Structure
-
-```
-project_tr/
-├── 📄 README.md                 # Project overview
-├── 📄 LICENSE                   # MIT license
-├── 📄 requirements.txt          # Python dependencies list
-├── 📁 src/                      # Source code with animations
-│   ├── 📄 main.py               # Possible main file
-│   ├── 📄 scenes.py             # Other scene files
-│   └── 📄 utils.py              # Helper functions
-├── 📁 docs/
-│   └── 📄 installation_guide.md # This guide
-├── 📁 output/                   # Rendered videos (not versioned)
-└── 📄 .gitignore                # Files ignored by Git
-```
+  - Make sure you have Python 3.9 or higher. If you have multiple versions, use `python3` instead of `python`.
 
 ## ℹ️ Additional Information
 
@@ -175,7 +158,4 @@ If you continue to have problems, you can:
 
 **🌐 Language / Idioma:** [English](installation_guide.md) | [Català](../ca/guia_execucio.md)
 
-```
-
----
 ```
