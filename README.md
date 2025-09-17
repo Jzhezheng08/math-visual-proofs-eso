@@ -1,4 +1,4 @@
-# Math Visual Proofs for ESO / Demostracions Visuals de Matemàtiques per a l'ESO
+# Visual Proofs in Secondary Mathematics / Demostracions Visuals per a les Matemàtiques de Secundària
 
 [🇬🇧 English](#english) | [🇪🇸 Català](#català)
 
