@@ -21,8 +21,8 @@ This project demonstrates, through **animations created with ManimCE**, how to c
 ### 📂 Repository Structure
 
 ```
-├── src/                          # Python source code (ManimCE scenes)
 ├── docs/                         # Documentation (EN & CA)
+├── src/                          # Python source code (ManimCE scenes)
 └── requirements.txt              # Python dependencies
 ```
 
@@ -65,8 +65,8 @@ L'objectiu és mostrar, mitjançant **animacions creades amb ManimCE**, com es p
 ### 📂 Estructura del repositori
 
 ```
-├── src/                          # Codi font Python (escenes de ManimCE)
 ├── docs/                         # Documentació (EN i CA)
+├── src/                          # Codi font Python (escenes de ManimCE)
 └── requirements.txt              # Dependències de Python
 ```
 
