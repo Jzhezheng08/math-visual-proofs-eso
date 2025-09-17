@@ -27,10 +27,7 @@ Manim uses FFmpeg to render videos.
 - **Windows**:
   1.  Download the latest `full` version from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/).
   2.  Extract the ZIP folder (e.g., to `C:\ffmpeg`).
-  3.  **Add FFmpeg to PATH** ([Visual guide](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)):
-      - Search for "Environment Variables" in the start menu.
-      - Click "Environment Variables..." → "Path" (user) → "New".
-      - Add the path to the `bin` folder inside the FFmpeg folder (e.g., `C:\ffmpeg\bin`).
+  3.  **Add FFmpeg to PATH** ([Visual guide](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)).
 - **macOS**:
   ```bash
   # Install Homebrew if you don't have it:

@@ -27,10 +27,7 @@ Manim utilitza FFmpeg per a renderitzar els vídeos.
 - **Windows**:
   1.  Descarrega la darrera versió `full` de [gyan.dev](https://www.gyan.dev/ffmpeg/builds/).
   2.  Extreu la carpeta de l'arxiu ZIP (ex. a `C:\ffmpeg`).
-  3.  **Afegeix FFmpeg al PATH** ([Guia visual](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)):
-      - Cerca "Variables d'entorn" en el menú d'inici.
-      - Cliqueu "Variables d'entorn..." → "Path" (d'usuari) → "Nou".
-      - Afegiu la ruta a la carpeta `bin` dins de la carpeta FFmpeg (ex. `C:\ffmpeg\bin`).
+  3.  **Afegeix FFmpeg al PATH** ([Guia visual](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)).
 - **macOS**:
   ```bash
   # Instal·la Homebrew si no el tens:
