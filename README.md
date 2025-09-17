@@ -9,7 +9,12 @@
 
 A repository containing animations created with ManimCE for a high school research project (Treball de Recerca) titled "Visual Mathematical Proofs for Secondary Education: An Accessible Approach with Digital Tools".
 
-This project demonstrates, through **animations created with ManimCE**, how to construct essential mathematical formulas and theorems from secondary education step by step.
+This project demonstrates, through **animations created with ManimCE**, how to construct essential mathematical formulas and theorems from **lower secondary education (ESO level)** step by step.
+
+---
+**📚 Educational Level Note**: 
+These animations focus on mathematical concepts taught in **ESO** (Educació Secundària Obligatòria), which corresponds to lower secondary education (typically ages 12-16) in the Spanish educational system. The content covers key concepts from algebra, geometry, and fundamental proofs appropriate for this level.
+---
 
 ### 📂 Repository Contents
 
