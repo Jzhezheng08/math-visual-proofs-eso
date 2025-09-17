@@ -1,5 +1,4 @@
-# Visual Proofs in Secondary Mathematics (English)
-# Demostracions Visuals per a les Matemàtiques de Secundària (Català)
+# Visual Proofs in Secondary Mathematics / Demostracions Visuals per a les Matemàtiques de Secundària
 
 [🇬🇧 English](#english) | [🇪🇸 Català](#català)
 
