@@ -2,6 +2,8 @@
 
 🌐 Language / Idioma: [English](#english) | [Català](#català)
 
+---
+
 Mathematical visual proofs for secondary education (ESO) created with ManimCE. A Treball de Recerca project from Catalonia.
 
 ---
