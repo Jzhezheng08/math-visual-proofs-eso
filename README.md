@@ -2,8 +2,6 @@
 
 [English](#english) | [Català](#català)
 
----
-
 <a name="english"></a>
 
 ## English
