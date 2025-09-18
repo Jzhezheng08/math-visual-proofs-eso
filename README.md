@@ -1,8 +1,8 @@
 # Visual Proofs in Secondary Mathematics / Demostracions Visuals per a les Matemàtiques de Secundària
 
-Mathematical visual proofs for secondary education (ESO) created with ManimCE. A Treball de Recerca project from Catalonia.
-
 🌐 Language / Idioma: [English](#english) | [Català](#català)
+
+Mathematical visual proofs for secondary education (ESO) created with ManimCE. A Treball de Recerca project from Catalonia.
 
 ---
 
@@ -10,7 +10,7 @@ Mathematical visual proofs for secondary education (ESO) created with ManimCE. A
 
 ## English
 
-A repository containing animations created with ManimCE for a high school research project (Treball de Recerca) titled **"Visual Mathematical Proofs for Secondary Education: An Accessible Approach with Digital Tools"**.
+This repository contains animations created with ManimCE for a high school research project (Treball de Recerca) titled **"Visual Mathematical Proofs for Secondary Education: An Accessible Approach with Digital Tools"**.
 
 This project demonstrates, through **animations created with ManimCE**, how to construct essential mathematical formulas and theorems from **lower secondary education (ESO level)** step by step.
 
@@ -34,7 +34,7 @@ This project demonstrates, through **animations created with ManimCE**, how to c
 1. **Install Python 3.9+**
 2. **Clone the repository**
    ```bash
-   git clone https://github.com/Jzhezheng08/math-visual-proofs-eso
+   git clone https://github.com/Jzhezheng2508/math-visual-proofs-eso
    ```
 3. **Install dependencies**
    ```bash
@@ -76,10 +76,10 @@ L'objectiu és mostrar, mitjançant **animacions creades amb ManimCE**, com es p
 
 ### 🚀 Instal·lació i ús
 
-1. **Instal·la Python 3.9+**
-2. **Clona el repositori**
+1. **Instal·lar Python 3.9+**
+2. **Clonar el repositori**
    ```bash
-   git clone https://github.com/Jzhezheng08/math-visual-proofs-eso
+   git clone https://github.com/Jzhezheng2508/math-visual-proofs-eso
    ```
 3. **Instal·la les dependències**
    ```bash
@@ -87,7 +87,7 @@ L'objectiu és mostrar, mitjançant **animacions creades amb ManimCE**, com es p
    ```
 4. **Executa una animació**
    ```bash
-   manim -p -qh src/identitats_algebraiques.py
+   manim -p -qh src/algebraic_identities.py
    ```
 
 📖 _Instruccions detallades: [Guia d'instal·lació](docs/ca/guia_execucio.md)_
@@ -96,7 +96,7 @@ L'objectiu és mostrar, mitjançant **animacions creades amb ManimCE**, com es p
 
 ### 🌐 Enllaços
 
-- **Repositori GitHub**: [https://github.com/Jzhezheng08/math-visual-proofs-eso](https://github.com/Jzhezheng08/math-visual-proofs-eso)
+- **Repositori GitHub**: [https://github.com/Jzhezheng2508/math-visual-proofs-eso](https://github.com/Jzhezheng2508/math-visual-proofs-eso)
 - **Lloc web amb animacions**: _En procés_
 
 ---
