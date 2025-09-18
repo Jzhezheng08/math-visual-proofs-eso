@@ -1,6 +1,8 @@
 # Visual Proofs in Secondary Mathematics / Demostracions Visuals per a les Matemàtiques de Secundària
 
-[English](#english) | [Català](#català)
+🌐 Language / Idioma: [English](#english) | [Català](#català)
+
+---
 
 <a name="english"></a>
 
