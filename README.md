@@ -1,10 +1,8 @@
 # Visual Proofs in Secondary Mathematics / Demostracions Visuals per a les Matemàtiques de Secundària
 
-🌐 Language / Idioma: [English](#english) | [Català](#català)
-
----
-
 Mathematical visual proofs for secondary education (ESO) created with ManimCE. A Treball de Recerca project from Catalonia.
+
+🌐 Language / Idioma: [English](#english) | [Català](#català)
 
 ---
 
